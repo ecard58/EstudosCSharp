@@ -1,0 +1,14 @@
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\bin\Debug\net8.0\EditorTexto.exe
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\bin\Debug\net8.0\EditorTexto.deps.json
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\bin\Debug\net8.0\EditorTexto.runtimeconfig.json
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\bin\Debug\net8.0\EditorTexto.dll
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\bin\Debug\net8.0\EditorTexto.pdb
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\obj\Debug\net8.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\obj\Debug\net8.0\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\obj\Debug\net8.0\EditorTexto.AssemblyInfo.cs
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\obj\Debug\net8.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\obj\Debug\net8.0\EditorTexto.dll
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\obj\Debug\net8.0\refint\EditorTexto.dll
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\obj\Debug\net8.0\EditorTexto.pdb
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\obj\Debug\net8.0\EditorTexto.genruntimeconfig.cache
+C:\Users\EmanuelMartinsCardos\Desktop\dev\Teste02\EditorTexto\obj\Debug\net8.0\ref\EditorTexto.dll
