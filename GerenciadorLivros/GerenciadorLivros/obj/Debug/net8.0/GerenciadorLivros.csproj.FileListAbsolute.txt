@@ -1,0 +1,14 @@
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.AssemblyInfoInputs.cache
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.AssemblyInfo.cs
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.csproj.CoreCompileInputs.cache
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.exe
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.deps.json
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.runtimeconfig.json
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.dll
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.pdb
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.dll
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\obj\Debug\net8.0\refint\GerenciadorLivros.dll
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.pdb
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.genruntimeconfig.cache
+C:\Users\EmanuelMartinsCardos\Desktop\dev\GerenciadorLivros\GerenciadorLivros\obj\Debug\net8.0\ref\GerenciadorLivros.dll
